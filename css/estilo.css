@@ -1,5 +1,14 @@
 body
 {
-    color: aliceblue;
-    background-color: cadetblue;
+    background-color: dimgrey;
+}
+
+.container
+{
+    width: 800px;
+    margin: 0 auto;
+    padding: 15px;
+    border: 1px solid black;
+    text-align: center;
+    background-color: white;
 }
